@@ -16,6 +16,8 @@ https://colab.research.google.com/
 
 ## Python Kurs
 
-
+Infos zum Python Kurs gibts [hier](https://github.com/rometsch/chatbot-kurs/blob/main/Python-Kurs.md) 🐍
 
 ## Physik Kurs
+
+Python kennst du schon? Dann [hier](https://github.com/rometsch/chatbot-kurs/blob/main/Physik-Kurs.md) entlang 🚀
