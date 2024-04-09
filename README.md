@@ -14,6 +14,10 @@ Online Python Notebook.
 Google Colab:
 https://colab.research.google.com/
 
+## Nützliche Prompts
+
+Was soll ich dem ChatBot sagen? [Hier](https://github.com/rometsch/chatbot-kurs-2024-04/blob/main/Useful-Prompts.md) findest du eine Auswahl an Beispiel Prompts.
+
 ## Python Kurs
 
 Infos zum Python Kurs gibts [hier](https://github.com/rometsch/chatbot-kurs/blob/main/Python-Kurs.md) 🐍
