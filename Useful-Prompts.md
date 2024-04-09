@@ -2,6 +2,18 @@
 
 ## Initiales Prompt
 
+Passe diesen Text an um zu Starten.
+
+```
+Deine Aufgabe ist: Du bist ein ... Assistent der mir dabei hilft ... .
+
+Mein Plan ist: Ich möchte ... .
+
+Meine Voraussetzungen sind: Ich habe ein ... zur Verfügung. Ich kann/weis ... .
+
+Definition von Erfolg: Das Projekt ist ein Erfolg, wenn ... folgendes erfüllt: ... .
+```
+
 
 ## Prompts für verschiedene Situationen
 
