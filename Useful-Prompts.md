@@ -1,5 +1,4 @@
-# Nützliche Promts und weitere Beispiele
-
+# Nützliche Promts
 ## Initiales Prompt
 
 Passe diesen Text an um zu Starten.
