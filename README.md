@@ -14,6 +14,11 @@ Online Python Notebook.
 Google Colab:
 https://colab.research.google.com/
 
+Python Notebook, das in deinem Browser läuft (eingeschränkte Funktion)
+
+Jupyter-Lite:
+https://jupyter.org/try-jupyter/lab/
+
 ## Prinzipien
 
 Du steckst fest? Lass dich von den [Prinzipien](https://github.com/rometsch/chatbot-kurs-2024-04/blob/main/Prinzipien.md) zum nächsten Schritt inspirieren.
