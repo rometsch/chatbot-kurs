@@ -19,6 +19,11 @@ Python Notebook, das in deinem Browser läuft (eingeschränkte Funktion)
 Jupyter-Lite:
 https://jupyter.org/try-jupyter/lab/
 
+Oder in nicht Notebook Form:
+
+Online Python:
+https://www.online-python.com/
+
 ## Prinzipien
 
 Du steckst fest? Lass dich von den [Prinzipien](https://github.com/rometsch/chatbot-kurs-2024-04/blob/main/Prinzipien.md) zum nächsten Schritt inspirieren.
