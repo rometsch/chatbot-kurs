@@ -9,6 +9,8 @@ Schau dir diese Liste an Prinzipien an und lass dich zu einer Lösung inspiriere
 	- Schritt für Schritt
 - Simpel
 	- Was ist eine einfachere Version von meinem Ziel?
+- Iterativ
+	- Ein kleiner Baustein nach dem anderen.
 - Fehleranalyse
 	- Wo tritt Fehler auf?
 	- Was bedeutet Fehler?
