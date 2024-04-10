@@ -7,9 +7,8 @@ Schau dir diese Liste an Prinzipien an und lass dich zu einer Lösung inspiriere
 - Klarheit
 	- Erfolg definieren -> Kompass
 	- Schritt für Schritt
-- Prototyping
-	- schnell
-	- so einfach wie möglich
+- Simpel
+	- Was ist eine einfachere Version von meinem Ziel?
 - Fehleranalyse
 	- Wo tritt Fehler auf?
 	- Was bedeutet Fehler?
