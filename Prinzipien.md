@@ -10,7 +10,7 @@ Schau dir diese Liste an Prinzipien an und lass dich zu einer Lösung inspiriere
 - Simpel
 	- Was ist eine einfachere Version von meinem Ziel?
 - Iterativ
-	- Ein kleiner Baustein nach dem anderen.
+	- Was ist ein nächster Baustein der mich zum Ziel bringt?
 - Fehleranalyse
 	- Wo tritt Fehler auf?
 	- Was bedeutet Fehler?
