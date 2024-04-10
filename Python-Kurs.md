@@ -6,6 +6,10 @@ Lerne Python Programmierung mit einem ChatBot
 
 Du hast eine Idee? Dann überspringe diesen Teil und weiter zum ersten Prompt!
 
+- Zahlen Ratespiel
+  - Wähle eine zufällige Zahl zwischen 1 und 100?
+  - Frage solange nach eine Zahl, bis der Benutzer die richtige Zahl rät.
+  - Sage dem Nutzer, ob die geratene Zahl größer oder kleiner als die zufällige Zahl war.
 - YouTube Kanal Viewer
   - Wie finde ich automatisch heraus, was die letzten fünf Videos eines Kanals sind?
   - Wie kann ich diese als Liste ausgeben?
