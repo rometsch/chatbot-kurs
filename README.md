@@ -14,6 +14,10 @@ Online Python Notebook.
 Google Colab:
 https://colab.research.google.com/
 
+## Prinzipien
+
+Du steckst fest? Lass dich von den [Prinzipien](https://github.com/rometsch/chatbot-kurs-2024-04/blob/main/Prinzipien.md) zum nächsten Schritt inspirieren.
+
 ## Nützliche Prompts
 
 Was soll ich dem ChatBot sagen? [Hier](https://github.com/rometsch/chatbot-kurs-2024-04/blob/main/Useful-Prompts.md) findest du eine Auswahl an Beispiel Prompts.
